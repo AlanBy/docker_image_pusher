@@ -1,1 +1,1 @@
-homeassistant/home-assistant
+jeessy/ddns-go
